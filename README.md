@@ -31,7 +31,17 @@ The goal of this project is to accurately predict the future closing value of a 
 * XGBoost
 * CatBoost
 * BayesianRidge
+## Results:
+![alt text](https://github.com/Sanazorgui/Stock-Price-Prediction/blob/main/Models%20comparaison.png?raw=true)
 
+|  | CatBoost | RandomForestRegressor |
+|:--------------:|:-------------:|:--------------:|
+| ***MAE*** | 4.601509929442768 | 2.9516314094190514 |
+| ***RMSLE*** | 0.018382158220525576 | 0.012031133547167132 |
+| ***MSE*** | 30.985590635305122 | 13.700921152699925 |
+| ***R^2*** | 0.9199182124313414 | 0.9645901777326359 |
+| ***RMSE*** | 5.566470213277452 | 3.701475537228353 |
+| ***MSLE*** | 0.00033790374084443606 | 0.00014474817442977037 |
 
 
 

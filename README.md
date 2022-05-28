@@ -8,12 +8,12 @@ Following that, a variety of Machine Learning models were fitted to data that wa
 ## Problem Highlights :
 The goal of this project is to accurately predict the future closing value of a given stock over a specified time period in the future. For this project, I used a variety of ML models to determine which one learned the most from the data.  
 * Achievements: 
-`*	Built several models and properly trained them on well-prepared data.
-`* Achieved a coefficient of determination (R^2 score) of 0.96459 and an MSLE of 0.00014 for the best model which was in our case the RandomForestRegressor.
+  `*	Built several models and properly trained them on well-prepared data.
+  `* Achieved a coefficient of determination (R^2 score) of 0.96459 and an MSLE of 0.00014 for the best model which was in our case the RandomForestRegressor.
 * Things I have learnt by completing this project:
-`* How to apply different Machine learning techniques by training and test them on the data
-`* How to collect and preprocess given data and visualize its contents on several types of plots.
-`* How to analyze model's performance using several evaluation metrics.  
+  `* How to apply different Machine learning techniques by training and test them on the data
+  `* How to collect and preprocess given data and visualize its contents on several types of plots.
+  `* How to analyze model's performance using several evaluation metrics.  
 ## Software and Libraries:
 * Python 3.8
 * NumPy

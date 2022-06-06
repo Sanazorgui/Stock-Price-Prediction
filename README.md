@@ -20,6 +20,7 @@ The goal of this project is to accurately predict the future closing value of a 
 * NumPy
 * pandas
 * Keras
+* Scikit-learn
 * Jupyter Notebook
 ## Models used:
 * RandomForest

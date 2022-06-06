@@ -19,7 +19,8 @@ The goal of this project is to accurately predict the future closing value of a 
 * Python 3.8
 * NumPy
 * pandas
-* Keras
+* matplotlib
+* seaborn
 * Scikit-learn
 * Jupyter Notebook
 ## Models used:
